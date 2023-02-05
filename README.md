@@ -10,7 +10,6 @@ This project is a sample project demonstrating how to use [Combine](https://deve
 ## Features
 - Make simple HTTP GET requests using [URLSession](https://developer.apple.com/documentation/foundation/urlsession) and Combine
 - Use [Decodable](https://developer.apple.com/documentation/swift/decodable) protocol to parse JSON response
-- Implement error handling using [catch](https://developer.apple.com/documentation/combine/publishers/catch) operator
 
 ## Usage
 1. Clone this repository
